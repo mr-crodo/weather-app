@@ -9,9 +9,6 @@
         if(isset($_GET['city'])) {
             $urlContent = file_get_contents("https://api.openweathermap.org/data/2.5/weather?q=".$_GET['city']."&units=metric&appid=".$key);
             $forcastArray = json_decode($urlContent, true);
-
-//            print_r($forcastArray);
-
             if($forcastArray['cod'] == 200) {
                 $weather = $forcastArray['weather'][0][description].'.';
                 $weatherTemp= $forcastArray['main']['temp'].' &#8451';
