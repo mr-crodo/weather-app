@@ -1,5 +1,4 @@
 # weather-app
-====
 **This is a weather app. Write the name of any city and get the temperature, weather description and wind speed in this city.**
 
 ## Install
@@ -12,8 +11,8 @@
 * Enter city names in the search bar
 
 ## Application screenshots
-<p align='center' style="max-width: 300px; width: 100%">
-  <img  src="/img/rdm/img1.png" alt="логотип GitHub">
+<p align='center'>
+  <img style="max-width: 200px; width: 100%" src="/img/rdm/img1.png" alt="screenshots weather-app">
 </p>
 <h4>
 - ✨ Bachelor of Applied Mathematics and Cybernetics at Baku State University.
