@@ -12,7 +12,7 @@
 
 ## Application screenshots
 <p align='center'>
-  <img style="max-width: 200px; width: 100%" src="/img/rdm/img1.png" alt="screenshots weather-app">
+  <img width="200px" src="/img/rdm/img1.png" alt="screenshots weather-app">
 </p>
 <h4>
 - ✨ Bachelor of Applied Mathematics and Cybernetics at Baku State University.
